@@ -8,7 +8,9 @@ An aspring Data Scientist and Robotics Engineer. I have a Bachelor's degree in E
 
 
 
-⚡ Fun fact: The platypus doesn't have a stomach at all: Their esophagus goes straight to their intestines. (nationalgeographic.com)
+
+
+⚡ Fun fact: The platypus doesn't have a stomach at all: Their esophagus goes straight to their intestines. 
 <!--
 **superchroma/superchroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
