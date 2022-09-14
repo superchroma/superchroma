@@ -1,8 +1,12 @@
 ### Hi there, I'm superchroma. 👋
-An aspring Data Scientist and Robotics Engineer. I have a Bachelor's degree in Electrical Engineering and a Master's in Intelligent Systems and Robotics.
+An aspiring Data Scientist and Robotics Engineer. 
+
+I have a Bachelor's degree in Electrical Engineering and a Master's in Intelligent Systems and Robotics.
 
 • 🧐 Keen enthusiasm for ML and Deep Learning projects.
+
 • 🤖 I enjoy working with hardware, electronics, sensors etc for robotics projects. 
+
 • 🤓 Deploying OpenCV, NLP solutions for web applications.
 
 
