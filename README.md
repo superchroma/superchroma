@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm superchroma.
 
+An aspring Data Scientist and Robotics Engineer. I have a Bachelor's degree in Electrical Engineering and a Master's in Intelligent Systems and Robotics.
+
+• Keen enthusiasm for ML and Deep Learning projects.
+• I enjoy working with hardware, electronics, sensors etc for robotics projects.
+• Deploying OpenCV, NLP solutions for web applications.
 <!--
 **superchroma/superchroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
